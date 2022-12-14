@@ -1,0 +1,68 @@
+body{
+  background-color:#00005f;
+  color: white;
+}
+
+.img1{
+  height: 100px;
+  width: 200px;
+  margin-left: 0%;
+}
+
+div .img2{
+
+  float: right;
+  height: 400px;
+  
+}
+
+a{
+  background-color: blueviolet;
+color: white;
+text-decoration: none;
+padding: 10px;
+font-size: 27px;
+transition: trasnform 0.9s;
+}
+
+.combo{
+  height: 50px;
+  margin-left: 1px;
+
+  
+}
+
+.botao1{
+  display: flex;
+  padding-bottom: 15px;
+  margin-left: 10px;
+    
+}
+
+.botao2{
+margin-top: 10px;
+ display: flex;
+ padding-bottom: 10px;
+ margin-left: 10px;
+ width: 300px;
+ height: 30px;
+ font-size: 27px;
+ justify-content: center;
+}
+
+footer{
+  background-color: #00005f;
+  color: white;
+  padding: 300px;
+  text-align: center;
+  margin-bottom: 200px;
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+ 
